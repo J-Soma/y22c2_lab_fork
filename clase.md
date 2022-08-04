@@ -1,4 +1,4 @@
-#Web50x.ni - Y22C1
-#---- Docentes ----
+# Web50x.ni - Y22C1
+# ---- Docentes ----
 
-#---- Alumnos ----
+# ---- Alumnos ----
