@@ -3,3 +3,5 @@
 
 # ---- Alumnos ----
 David Garcia 
+Luis Martinez
+Pablo Gutiérrez
