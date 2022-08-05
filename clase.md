@@ -6,3 +6,4 @@ Luis Martinez
 Pablo Gutiérrez
 Isaac Duarte
 Juan Rios 
+Rafael Poveda
