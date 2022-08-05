@@ -4,3 +4,4 @@
 # ---- Alumnos ----
 Luis Martinez
 Pablo Gutiérrez
+Isaac Duarte 
