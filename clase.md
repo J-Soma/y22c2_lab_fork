@@ -8,4 +8,4 @@ Isaac Duarte
 Juan Rios 
 Rafael Poveda
 Angel Lopez
-Alisson Ruiz
+
