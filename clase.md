@@ -9,3 +9,4 @@ Juan Rios
 Rafael Poveda
 Angel Lopez
 Luis Vargas
+José Guido
