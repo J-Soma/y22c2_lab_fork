@@ -12,4 +12,8 @@ Luis Vargas
 Alisson Ruiz
 José Guido
 Angie Morales
+Santiago Ocampo
+Oscar Aguilar
+Elo Moli
+keyla Romero
 Alberto Tellez
